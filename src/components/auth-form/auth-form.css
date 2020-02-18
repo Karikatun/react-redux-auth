@@ -1,0 +1,38 @@
+.form-sign-in {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 200px;
+    margin-left: 400px;
+}
+
+.form-label {
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+.label-for-pass {
+    margin-top: 10px;
+}
+
+.news-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.news-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.news-body {
+    font-size: 14px;
+}
+
+.news-img {
+    max-width: 400px;
+}
+
+.hidden {
+    display: none;
+}
